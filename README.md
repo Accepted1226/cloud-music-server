@@ -1,10 +1,10 @@
 # 工程简介
 
-客户端：http://localhost:8080
+宝塔：http://119.91.198.46:8888/files
 
-后台端：http://localhost:8081   账号：admin    密码：admin
+后台端：http://119.91.198.46:9001
 
-API接口：http://localhost:8888/doc.html
+API接口：http://http://119.91.198.46:9001/doc.html
 
 # 延伸阅读
 
