@@ -1,0 +1,471 @@
+2022-09-22 15:39:52 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 15:39:52 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.path' has been deprecated in favor of 'resource.loader.file.path'
+2022-09-22 15:39:52 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 15:39:52 WARN [org.apache.velocity.deprecation]: configuration key 'input.encoding' has been deprecated in favor of 'resource.default_encoding'
+2022-09-22 15:41:34 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 15:41:34 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.path' has been deprecated in favor of 'resource.loader.file.path'
+2022-09-22 15:41:34 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 15:41:34 WARN [org.apache.velocity.deprecation]: configuration key 'input.encoding' has been deprecated in favor of 'resource.default_encoding'
+2022-09-22 15:42:06 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 15:42:06 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.path' has been deprecated in favor of 'resource.loader.file.path'
+2022-09-22 15:42:06 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 15:42:06 WARN [org.apache.velocity.deprecation]: configuration key 'input.encoding' has been deprecated in favor of 'resource.default_encoding'
+2022-09-22 16:03:45 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 16:03:45 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.path' has been deprecated in favor of 'resource.loader.file.path'
+2022-09-22 16:03:45 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 16:03:45 WARN [org.apache.velocity.deprecation]: configuration key 'input.encoding' has been deprecated in favor of 'resource.default_encoding'
+2022-09-22 16:07:32 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 16:07:32 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.path' has been deprecated in favor of 'resource.loader.file.path'
+2022-09-22 16:07:32 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 16:07:32 WARN [org.apache.velocity.deprecation]: configuration key 'input.encoding' has been deprecated in favor of 'resource.default_encoding'
+2022-09-22 16:52:49 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 16:52:49 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 16:52:49 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[collect]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 16:55:03 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 16:55:03 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 16:55:04 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[collect]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 16:57:33 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 16:57:33 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:03:55 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:03:55 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:09:45 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:09:45 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:11:33 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:11:33 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:13:59 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:13:59 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:13:59 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[collect]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:28:05 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:28:05 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:28:21 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:28:21 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:30:38 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:30:38 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:30:38 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[collect]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:31:02 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:31:02 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:31:02 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[comment]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:31:19 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:31:19 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:31:36 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:31:36 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:31:57 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:31:57 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:31:57 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[rank_list]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:32:10 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:32:10 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:32:11 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[singer]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:32:24 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:32:24 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:32:25 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[song]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:32:33 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:32:33 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:32:33 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[song_list]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:33:14 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:33:14 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:33:14 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[consumer]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:33:28 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.unicode' has been deprecated in favor of 'resource.loader.file.unicode'
+2022-09-22 17:33:28 WARN [org.apache.velocity.deprecation]: configuration key 'file.resource.loader.class' has been deprecated in favor of 'resource.loader.file.class'
+2022-09-22 17:33:29 WARN [com.baomidou.mybatisplus.generator.IDatabaseQuery$DefaultDatabaseQuery]: 当前表[list_song]的主键为自增主键，会导致全局主键的ID类型设置失效!
+2022-09-22 17:52:15 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xxx.MusicServerApplicationTests], using SpringBootContextLoader
+2022-09-22 17:52:15 INFO [org.springframework.test.context.support.AbstractContextLoader]: Could not detect default resource locations for test class [com.xxx.MusicServerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-09-22 17:52:15 INFO [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils]: Could not detect default configuration classes for test class [com.xxx.MusicServerApplicationTests]: MusicServerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-09-22 17:52:15 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Found @SpringBootConfiguration com.xxx.MusicServerApplication for test class com.xxx.MusicServerApplicationTests
+2022-09-22 17:52:15 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-09-22 17:52:15 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5f8e8a9d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@5745ca0e, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3ad83a66, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3cce5371, org.springframework.test.context.support.DirtiesContextTestExecutionListener@17bffc17, org.springframework.test.context.transaction.TransactionalTestExecutionListener@6e535154, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@15a34df2, org.springframework.test.context.event.EventPublishingTestExecutionListener@5b38c1ec, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@338fc1d8, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@4722ef0c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@48e1f6c7, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@55cb6996, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1807e3f6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@480d3575]
+2022-09-22 17:52:15 INFO [com.xxx.MusicServerApplicationTests]: Starting MusicServerApplicationTests on DESKTOP-5FCK5PK with PID 17984 (started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:52:15 INFO [com.xxx.MusicServerApplicationTests]: The following profiles are active: dev
+2022-09-22 17:52:17 INFO [com.xxx.MusicServerApplicationTests]: Started MusicServerApplicationTests in 2.098 seconds (JVM running for 2.843)
+2022-09-22 17:52:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:52:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:52:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:52:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:54:50 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xxx.MusicServerApplicationTests], using SpringBootContextLoader
+2022-09-22 17:54:50 INFO [org.springframework.test.context.support.AbstractContextLoader]: Could not detect default resource locations for test class [com.xxx.MusicServerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-09-22 17:54:50 INFO [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils]: Could not detect default configuration classes for test class [com.xxx.MusicServerApplicationTests]: MusicServerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-09-22 17:54:50 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Found @SpringBootConfiguration com.xxx.MusicServerApplication for test class com.xxx.MusicServerApplicationTests
+2022-09-22 17:54:50 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-09-22 17:54:50 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5f8e8a9d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@5745ca0e, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3ad83a66, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3cce5371, org.springframework.test.context.support.DirtiesContextTestExecutionListener@17bffc17, org.springframework.test.context.transaction.TransactionalTestExecutionListener@6e535154, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@15a34df2, org.springframework.test.context.event.EventPublishingTestExecutionListener@5b38c1ec, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@338fc1d8, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@4722ef0c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@48e1f6c7, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@55cb6996, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1807e3f6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@480d3575]
+2022-09-22 17:54:51 INFO [com.xxx.MusicServerApplicationTests]: Starting MusicServerApplicationTests on DESKTOP-5FCK5PK with PID 6960 (started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:54:51 INFO [com.xxx.MusicServerApplicationTests]: The following profiles are active: dev
+2022-09-22 17:54:52 INFO [com.xxx.MusicServerApplicationTests]: Started MusicServerApplicationTests in 2.055 seconds (JVM running for 2.905)
+2022-09-22 17:54:53 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:54:53 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:54:53 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:54:53 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:55:05 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xxx.MusicServerApplicationTests], using SpringBootContextLoader
+2022-09-22 17:55:05 INFO [org.springframework.test.context.support.AbstractContextLoader]: Could not detect default resource locations for test class [com.xxx.MusicServerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-09-22 17:55:05 INFO [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils]: Could not detect default configuration classes for test class [com.xxx.MusicServerApplicationTests]: MusicServerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-09-22 17:55:05 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Found @SpringBootConfiguration com.xxx.MusicServerApplication for test class com.xxx.MusicServerApplicationTests
+2022-09-22 17:55:05 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-09-22 17:55:05 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5f8e8a9d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@5745ca0e, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@3ad83a66, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@3cce5371, org.springframework.test.context.support.DirtiesContextTestExecutionListener@17bffc17, org.springframework.test.context.transaction.TransactionalTestExecutionListener@6e535154, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@15a34df2, org.springframework.test.context.event.EventPublishingTestExecutionListener@5b38c1ec, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@338fc1d8, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@4722ef0c, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@48e1f6c7, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@55cb6996, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@1807e3f6, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@480d3575]
+2022-09-22 17:55:06 INFO [com.xxx.MusicServerApplicationTests]: Starting MusicServerApplicationTests on DESKTOP-5FCK5PK with PID 11620 (started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:55:06 INFO [com.xxx.MusicServerApplicationTests]: The following profiles are active: dev
+2022-09-22 17:55:07 INFO [com.xxx.MusicServerApplicationTests]: Started MusicServerApplicationTests in 1.91 seconds (JVM running for 2.811)
+2022-09-22 17:55:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:55:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:55:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:55:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:55:17 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15636 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:55:17 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:55:17 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:55:17 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:55:17 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:55:17 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 730 ms
+2022-09-22 17:55:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:55:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:55:18 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:55:18 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:55:18 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:55:18 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.765 seconds (JVM running for 2.355)
+2022-09-22 17:55:18 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-09-22 17:55:18 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-09-22 17:55:18 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /songList
+2022-09-22 17:55:18 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /singer
+2022-09-22 17:55:18 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /song
+2022-09-22 17:55:18 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /user
+2022-09-22 17:56:25 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:56:25 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:56:25 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:56:25 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:56:25 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15636 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:56:25 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:56:25 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:56:25 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 167 ms
+2022-09-22 17:56:25 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Starting...
+2022-09-22 17:56:25 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Start completed.
+2022-09-22 17:56:25 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:56:26 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:56:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:56:26 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.441 seconds (JVM running for 69.685)
+2022-09-22 17:56:26 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 17:56:27 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown initiated...
+2022-09-22 17:56:27 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown completed.
+2022-09-22 17:56:30 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 7380 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:56:30 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:56:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:56:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:56:31 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:56:31 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 671 ms
+2022-09-22 17:56:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:56:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:56:31 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:56:32 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:56:32 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:56:32 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.623 seconds (JVM running for 2.073)
+2022-09-22 17:56:36 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-09-22 17:56:36 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-09-22 17:56:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:56:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:56:45 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:56:45 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:56:45 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 7380 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:56:45 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:56:45 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:56:45 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 164 ms
+2022-09-22 17:56:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Starting...
+2022-09-22 17:56:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Start completed.
+2022-09-22 17:56:45 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:56:45 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:56:45 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:56:45 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.43 seconds (JVM running for 15.258)
+2022-09-22 17:56:45 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 17:56:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown initiated...
+2022-09-22 17:56:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown completed.
+2022-09-22 17:56:49 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 7292 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:56:49 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:56:49 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:56:49 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:56:49 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:56:49 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 676 ms
+2022-09-22 17:56:49 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:56:49 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:56:49 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:56:50 WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext]: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'collectServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xxx.customer.mapper.CollectMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2022-09-22 17:56:50 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:56:50 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:56:50 INFO [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener]: 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-09-22 17:56:50 ERROR [org.springframework.boot.SpringApplication]: Application run failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'collectServiceImpl': Unsatisfied dependency expressed through field 'baseMapper'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xxx.customer.mapper.CollectMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:643)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:405)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.xxx.MusicServerApplication.main(MusicServerApplication.java:12)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.xxx.customer.mapper.CollectMapper' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.raiseNoMatchingBeanFound(DefaultListableBeanFactory.java:1717)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1273)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	... 25 more
+2022-09-22 17:57:09 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 17264 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:57:09 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:57:09 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:57:09 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:57:10 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: Skipping MapperFactoryBean with name 'adminMapper' and 'com.xxx.admin.mapper.AdminMapper' mapperInterface. Bean already defined with the same name!
+2022-09-22 17:57:10 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: No MyBatis mapper was found in '[com.xxx.admin.mapper]' package. Please check your configuration.
+2022-09-22 17:57:10 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:57:10 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 724 ms
+2022-09-22 17:57:10 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:57:10 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:57:10 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:57:11 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:57:11 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:57:11 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.623 seconds (JVM running for 2.068)
+2022-09-22 17:57:15 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-09-22 17:57:15 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-09-22 17:58:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:58:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:58:08 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:58:08 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:58:08 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 17264 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:58:08 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:58:09 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: Skipping MapperFactoryBean with name 'adminMapper' and 'com.xxx.admin.mapper.AdminMapper' mapperInterface. Bean already defined with the same name!
+2022-09-22 17:58:09 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: No MyBatis mapper was found in '[com.xxx.admin.mapper]' package. Please check your configuration.
+2022-09-22 17:58:09 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:58:09 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 166 ms
+2022-09-22 17:58:09 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Starting...
+2022-09-22 17:58:09 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Start completed.
+2022-09-22 17:58:09 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:58:09 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:58:09 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:58:09 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.445 seconds (JVM running for 60.239)
+2022-09-22 17:58:09 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 17:58:32 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown initiated...
+2022-09-22 17:58:32 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown completed.
+2022-09-22 17:58:35 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 17680 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:58:35 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:58:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:58:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:58:35 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: Skipping MapperFactoryBean with name 'adminMapper' and 'com.xxx.admin.mapper.AdminMapper' mapperInterface. Bean already defined with the same name!
+2022-09-22 17:58:35 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: No MyBatis mapper was found in '[com.xxx.admin.mapper]' package. Please check your configuration.
+2022-09-22 17:58:35 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:58:36 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 694 ms
+2022-09-22 17:58:36 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:58:36 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:58:36 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:58:36 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:58:36 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:58:36 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.682 seconds (JVM running for 2.2)
+2022-09-22 17:58:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 17:58:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 17:58:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:58:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:58:41 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 17680 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:58:41 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:58:41 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: Skipping MapperFactoryBean with name 'adminMapper' and 'com.xxx.admin.mapper.AdminMapper' mapperInterface. Bean already defined with the same name!
+2022-09-22 17:58:41 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: No MyBatis mapper was found in '[com.xxx.admin.mapper]' package. Please check your configuration.
+2022-09-22 17:58:41 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:58:41 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 198 ms
+2022-09-22 17:58:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Starting...
+2022-09-22 17:58:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Start completed.
+2022-09-22 17:58:41 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:58:41 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:58:41 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:58:41 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.51 seconds (JVM running for 7.299)
+2022-09-22 17:58:41 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 17:58:42 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-09-22 17:58:42 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 7 ms
+2022-09-22 17:59:40 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown initiated...
+2022-09-22 17:59:40 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown completed.
+2022-09-22 17:59:40 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:59:40 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:59:40 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 17680 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:59:40 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:59:41 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: Skipping MapperFactoryBean with name 'adminMapper' and 'com.xxx.admin.mapper.AdminMapper' mapperInterface. Bean already defined with the same name!
+2022-09-22 17:59:41 WARN [org.mybatis.spring.mapper.ClassPathMapperScanner]: No MyBatis mapper was found in '[com.xxx.admin.mapper]' package. Please check your configuration.
+2022-09-22 17:59:41 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:59:41 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 320 ms
+2022-09-22 17:59:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Starting...
+2022-09-22 17:59:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Start completed.
+2022-09-22 17:59:41 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:59:41 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:59:41 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:59:41 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.623 seconds (JVM running for 66.948)
+2022-09-22 17:59:41 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 17:59:51 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Shutdown initiated...
+2022-09-22 17:59:51 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Shutdown completed.
+2022-09-22 17:59:54 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15712 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 17:59:54 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 17:59:54 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 17:59:54 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 17:59:55 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 17:59:55 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 728 ms
+2022-09-22 17:59:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 17:59:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 17:59:55 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 17:59:55 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 17:59:55 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 17:59:55 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.699 seconds (JVM running for 2.297)
+2022-09-22 18:00:02 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-09-22 18:00:02 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-09-22 18:01:22 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 18:01:22 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 18:01:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 18:01:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 18:01:22 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15712 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:01:22 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 18:01:22 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 18:01:22 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 213 ms
+2022-09-22 18:01:22 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Starting...
+2022-09-22 18:01:22 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Start completed.
+2022-09-22 18:01:22 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 18:01:22 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 18:01:22 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 18:01:22 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.596 seconds (JVM running for 89.226)
+2022-09-22 18:01:22 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 18:01:23 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xxx.MusicServerApplicationTests], using SpringBootContextLoader
+2022-09-22 18:01:23 INFO [org.springframework.test.context.support.AbstractContextLoader]: Could not detect default resource locations for test class [com.xxx.MusicServerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-09-22 18:01:23 INFO [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils]: Could not detect default configuration classes for test class [com.xxx.MusicServerApplicationTests]: MusicServerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-09-22 18:01:23 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Found @SpringBootConfiguration com.xxx.MusicServerApplication for test class com.xxx.MusicServerApplicationTests
+2022-09-22 18:01:23 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-09-22 18:01:23 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@239a307b, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@2a8448fa, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@6f204a1a, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@2de56eb2, org.springframework.test.context.support.DirtiesContextTestExecutionListener@5f8e8a9d, org.springframework.test.context.transaction.TransactionalTestExecutionListener@5745ca0e, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3ad83a66, org.springframework.test.context.event.EventPublishingTestExecutionListener@3cce5371, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@17bffc17, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@6e535154, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@15a34df2, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5b38c1ec, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@338fc1d8, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@4722ef0c]
+2022-09-22 18:01:23 INFO [com.xxx.MusicServerApplicationTests]: Starting MusicServerApplicationTests on DESKTOP-5FCK5PK with PID 18420 (started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:01:23 INFO [com.xxx.MusicServerApplicationTests]: The following profiles are active: dev
+2022-09-22 18:01:25 INFO [com.xxx.MusicServerApplicationTests]: Started MusicServerApplicationTests in 1.929 seconds (JVM running for 2.743)
+2022-09-22 18:04:06 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown initiated...
+2022-09-22 18:04:06 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-2 - Shutdown completed.
+2022-09-22 18:04:06 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 18:04:06 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 18:04:06 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15712 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:04:06 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 18:04:07 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 18:04:07 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 156 ms
+2022-09-22 18:04:07 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Starting...
+2022-09-22 18:04:07 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Start completed.
+2022-09-22 18:04:07 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 18:04:07 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 18:04:07 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 18:04:07 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.396 seconds (JVM running for 253.668)
+2022-09-22 18:04:07 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 18:14:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Shutdown initiated...
+2022-09-22 18:14:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-3 - Shutdown completed.
+2022-09-22 18:14:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 18:14:35 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 18:14:35 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15712 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:14:35 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 18:14:35 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 18:14:35 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 146 ms
+2022-09-22 18:14:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-4 - Starting...
+2022-09-22 18:14:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-4 - Start completed.
+2022-09-22 18:14:35 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 18:14:35 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 18:14:35 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 18:14:35 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.387 seconds (JVM running for 882.13)
+2022-09-22 18:14:35 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 18:14:43 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-4 - Shutdown initiated...
+2022-09-22 18:14:43 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-4 - Shutdown completed.
+2022-09-22 18:14:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 18:14:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 18:14:43 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15712 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:14:43 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 18:14:43 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 18:14:43 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 155 ms
+2022-09-22 18:14:43 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-5 - Starting...
+2022-09-22 18:14:43 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-5 - Start completed.
+2022-09-22 18:14:43 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 18:14:43 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 18:14:43 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 18:14:43 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.386 seconds (JVM running for 890.191)
+2022-09-22 18:14:43 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 18:15:26 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-5 - Shutdown initiated...
+2022-09-22 18:15:26 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-5 - Shutdown completed.
+2022-09-22 18:15:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 18:15:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 18:15:26 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15712 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:15:26 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 18:15:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 18:15:26 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 143 ms
+2022-09-22 18:15:26 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-6 - Starting...
+2022-09-22 18:15:26 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-6 - Start completed.
+2022-09-22 18:15:26 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 18:15:26 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 18:15:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 18:15:26 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.37 seconds (JVM running for 933.038)
+2022-09-22 18:15:26 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 18:16:37 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-6 - Shutdown initiated...
+2022-09-22 18:16:37 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-6 - Shutdown completed.
+2022-09-22 18:16:38 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 18:16:38 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 18:16:38 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 15712 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:16:38 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 18:16:38 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 18:16:38 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 174 ms
+2022-09-22 18:16:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-7 - Starting...
+2022-09-22 18:16:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-7 - Start completed.
+2022-09-22 18:16:38 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 18:16:38 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 18:16:38 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 18:16:38 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.5 seconds (JVM running for 1004.965)
+2022-09-22 18:16:38 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-09-22 18:16:38 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xxx.MusicServerApplicationTests], using SpringBootContextLoader
+2022-09-22 18:16:38 INFO [org.springframework.test.context.support.AbstractContextLoader]: Could not detect default resource locations for test class [com.xxx.MusicServerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-09-22 18:16:38 INFO [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils]: Could not detect default configuration classes for test class [com.xxx.MusicServerApplicationTests]: MusicServerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-09-22 18:16:38 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Found @SpringBootConfiguration com.xxx.MusicServerApplication for test class com.xxx.MusicServerApplicationTests
+2022-09-22 18:16:38 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-09-22 18:16:38 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@f1da57d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@194fad1, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@26abb146, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@72c8e7b, org.springframework.test.context.support.DirtiesContextTestExecutionListener@65f8f5ae, org.springframework.test.context.transaction.TransactionalTestExecutionListener@431cd9b2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@38467116, org.springframework.test.context.event.EventPublishingTestExecutionListener@5b7a7f33, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@790da477, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@5c7933ad, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@57bc27f5, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5fb759d6, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4b8d604b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@5e7cd6cc]
+2022-09-22 18:16:39 INFO [com.xxx.MusicServerApplicationTests]: Starting MusicServerApplicationTests on DESKTOP-5FCK5PK with PID 5184 (started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:16:39 INFO [com.xxx.MusicServerApplicationTests]: The following profiles are active: dev
+2022-09-22 18:16:40 INFO [com.xxx.MusicServerApplicationTests]: Started MusicServerApplicationTests in 1.952 seconds (JVM running for 2.757)
+2022-09-22 18:16:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 18:16:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 18:16:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 18:16:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 18:17:06 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.xxx.MusicServerApplicationTests], using SpringBootContextLoader
+2022-09-22 18:17:06 INFO [org.springframework.test.context.support.AbstractContextLoader]: Could not detect default resource locations for test class [com.xxx.MusicServerApplicationTests]: no resource found for suffixes {-context.xml, Context.groovy}.
+2022-09-22 18:17:06 INFO [org.springframework.test.context.support.AnnotationConfigContextLoaderUtils]: Could not detect default configuration classes for test class [com.xxx.MusicServerApplicationTests]: MusicServerApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2022-09-22 18:17:06 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Found @SpringBootConfiguration com.xxx.MusicServerApplication for test class com.xxx.MusicServerApplicationTests
+2022-09-22 18:17:07 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2022-09-22 18:17:07 INFO [org.springframework.boot.test.context.SpringBootTestContextBootstrapper]: Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@f1da57d, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@194fad1, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@26abb146, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@72c8e7b, org.springframework.test.context.support.DirtiesContextTestExecutionListener@65f8f5ae, org.springframework.test.context.transaction.TransactionalTestExecutionListener@431cd9b2, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@38467116, org.springframework.test.context.event.EventPublishingTestExecutionListener@5b7a7f33, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@790da477, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@5c7933ad, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@57bc27f5, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@5fb759d6, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@4b8d604b, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@5e7cd6cc]
+2022-09-22 18:17:07 INFO [com.xxx.MusicServerApplicationTests]: Starting MusicServerApplicationTests on DESKTOP-5FCK5PK with PID 11672 (started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:17:07 INFO [com.xxx.MusicServerApplicationTests]: The following profiles are active: dev
+2022-09-22 18:17:09 INFO [com.xxx.MusicServerApplicationTests]: Started MusicServerApplicationTests in 1.979 seconds (JVM running for 2.75)
+2022-09-22 18:17:09 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 18:17:09 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 18:17:09 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 18:17:09 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-09-22 18:17:17 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-7 - Shutdown initiated...
+2022-09-22 18:17:17 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-7 - Shutdown completed.
+2022-09-22 18:17:19 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on DESKTOP-5FCK5PK with PID 9900 (D:\MyFile\Project\Music\music-server\target\classes started by ChenYi in D:\MyFile\Project\Music\music-server)
+2022-09-22 18:17:19 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-09-22 18:17:19 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-22 18:17:19 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-22 18:17:20 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-09-22 18:17:20 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 670 ms
+2022-09-22 18:17:20 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-09-22 18:17:20 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-09-22 18:17:20 INFO [org.springframework.boot.autoconfigure.h2.H2ConsoleAutoConfiguration]: H2 console available at '/h2-console'. Database available at 'jdbc:mysql://localhost:3306/tp_music?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai'
+2022-09-22 18:17:21 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-09-22 18:17:21 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-09-22 18:17:21 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.575 seconds (JVM running for 2.048)
+2022-09-22 18:17:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-09-22 18:17:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-09-22 18:17:28 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /songList
+2022-09-22 18:17:28 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /user
+2022-09-22 18:17:28 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /singer
+2022-09-22 18:17:28 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /song
+2022-09-22 18:17:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-09-22 18:17:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.

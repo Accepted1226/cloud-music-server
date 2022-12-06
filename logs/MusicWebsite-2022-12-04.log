@@ -1,0 +1,464 @@
+2022-12-04 21:06:31 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7854 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:06:31 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:06:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:06:31 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:06:33 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:06:33 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2235 ms
+2022-12-04 21:06:34 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:06:34 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:06:34 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 3.992 seconds (JVM running for 5.277)
+2022-12-04 21:07:06 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:07:06 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-04 21:07:06 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-04 21:07:06 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-04 21:07:13 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-04 21:07:13 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-04 21:20:50 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7954 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:20:50 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:20:50 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:20:50 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:20:52 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:20:52 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2470 ms
+2022-12-04 21:20:53 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:20:53 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:20:53 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 3.852 seconds (JVM running for 5.023)
+2022-12-04 21:21:19 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:21:19 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-04 21:21:58 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7994 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:21:58 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:21:58 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:21:58 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:21:59 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:21:59 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1587 ms
+2022-12-04 21:22:00 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:22:00 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:00 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.767 seconds (JVM running for 3.411)
+2022-12-04 21:22:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:22:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-04 21:22:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:22:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:22:05 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7994 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:22:05 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:22:06 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:22:06 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 472 ms
+2022-12-04 21:22:06 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:22:06 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:06 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.899 seconds (JVM running for 9.526)
+2022-12-04 21:22:06 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-04 21:22:20 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:22:20 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2022-12-04 21:22:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:22:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:22:22 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7994 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:22:22 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:22:22 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:22:22 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 480 ms
+2022-12-04 21:22:23 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:22:23 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:23 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.284 seconds (JVM running for 26.326)
+2022-12-04 21:22:23 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-04 21:22:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:22:27 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 2 ms
+2022-12-04 21:22:28 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:22:28 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:22:28 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7994 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:22:28 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:22:29 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:22:29 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 452 ms
+2022-12-04 21:22:29 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:22:29 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:30 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:22:30 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.191 seconds (JVM running for 32.851)
+2022-12-04 21:22:30 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-04 21:25:52 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8027 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:25:52 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:25:52 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:25:52 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:25:53 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:25:53 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1622 ms
+2022-12-04 21:25:54 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:25:54 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:25:54 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.79 seconds (JVM running for 3.542)
+2022-12-04 21:26:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:26:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-04 21:26:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:26:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:26:05 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8027 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:26:05 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:26:06 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:26:06 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 464 ms
+2022-12-04 21:26:06 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:26:06 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:06 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.88 seconds (JVM running for 15.732)
+2022-12-04 21:26:06 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-04 21:26:08 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:26:08 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 1 ms
+2022-12-04 21:26:10 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:26:10 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:26:10 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8027 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:26:10 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:26:10 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:26:10 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 412 ms
+2022-12-04 21:26:10 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:26:10 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:10 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.796 seconds (JVM running for 19.879)
+2022-12-04 21:26:10 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-04 21:26:29 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8031 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:26:29 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:26:30 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:26:30 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:26:31 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:26:31 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1611 ms
+2022-12-04 21:26:32 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:26:32 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:32 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.783 seconds (JVM running for 3.364)
+2022-12-04 21:26:35 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:26:35 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-04 21:26:36 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:26:36 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:26:36 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8031 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:26:36 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:26:37 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:26:37 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 480 ms
+2022-12-04 21:26:37 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:26:37 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:37 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.949 seconds (JVM running for 8.518)
+2022-12-04 21:26:37 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-04 21:26:55 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:26:55 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 2 ms
+2022-12-04 21:26:57 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:26:57 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:26:57 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8031 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:26:57 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:26:57 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:26:57 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 422 ms
+2022-12-04 21:26:57 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:26:57 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:26:58 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.822 seconds (JVM running for 28.916)
+2022-12-04 21:26:58 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-04 21:43:05 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8396 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:43:05 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:43:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:43:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:43:07 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:43:07 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1593 ms
+2022-12-04 21:43:08 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:43:08 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:08 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.968 seconds (JVM running for 3.73)
+2022-12-04 21:43:11 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:43:11 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-04 21:43:11 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-04 21:43:12 ERROR [com.zaxxer.hikari.pool.HikariPool]: HikariPool-1 - Exception during pool initialization.
+java.sql.SQLSyntaxErrorException: Unknown database 'music'
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:120)
+	at com.mysql.cj.jdbc.exceptions.SQLError.createSQLException(SQLError.java:97)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:122)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:835)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:455)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:240)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:358)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:477)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:560)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.openConnection(SpringManagedTransaction.java:80)
+	at org.mybatis.spring.transaction.SpringManagedTransaction.getConnection(SpringManagedTransaction.java:67)
+	at org.apache.ibatis.executor.BaseExecutor.getConnection(BaseExecutor.java:337)
+	at org.apache.ibatis.executor.SimpleExecutor.prepareStatement(SimpleExecutor.java:86)
+	at org.apache.ibatis.executor.SimpleExecutor.doQuery(SimpleExecutor.java:62)
+	at org.apache.ibatis.executor.BaseExecutor.queryFromDatabase(BaseExecutor.java:325)
+	at org.apache.ibatis.executor.BaseExecutor.query(BaseExecutor.java:156)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:109)
+	at org.apache.ibatis.executor.CachingExecutor.query(CachingExecutor.java:89)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:151)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:145)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectList(DefaultSqlSession.java:140)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.selectOne(DefaultSqlSession.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:427)
+	at jdk.proxy2/jdk.proxy2.$Proxy78.selectOne(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.selectOne(SqlSessionTemplate.java:160)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperMethod.execute(MybatisMapperMethod.java:89)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy$PlainMethodInvoker.invoke(MybatisMapperProxy.java:148)
+	at com.baomidou.mybatisplus.core.override.MybatisMapperProxy.invoke(MybatisMapperProxy.java:89)
+	at jdk.proxy3/jdk.proxy3.$Proxy91.userOfId(Unknown Source)
+	at com.xxx.customer.service.impl.ConsumerServiceImpl.userOfId(ConsumerServiceImpl.java:39)
+	at com.xxx.customer.service.impl.ConsumerServiceImpl$$FastClassBySpringCGLIB$$92231a37.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+	at org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:687)
+	at com.xxx.customer.service.impl.ConsumerServiceImpl$$EnhancerBySpringCGLIB$$2df81df0.userOfId(<generated>)
+	at com.xxx.customer.controller.ConsumerController.userOfId(ConsumerController.java:76)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:190)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:138)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:105)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:878)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:792)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1040)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:943)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:626)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:733)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:119)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:143)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:374)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:888)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1597)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-12-04 21:43:30 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8399 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 21:43:30 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 21:43:30 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 21:43:30 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 21:43:32 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 21:43:32 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1533 ms
+2022-12-04 21:43:32 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 21:43:32 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:32 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 21:43:33 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.633 seconds (JVM running for 3.201)
+2022-12-04 21:43:35 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 21:43:35 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-04 21:43:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-04 21:43:35 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-04 21:45:25 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-04 21:45:25 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-04 22:01:14 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 8594 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 22:01:14 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 22:01:14 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 22:01:14 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 22:01:15 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 22:01:16 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1769 ms
+2022-12-04 22:01:16 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 22:01:16 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 22:01:16 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 3.105 seconds (JVM running for 4.006)
+2022-12-04 22:01:21 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 22:01:21 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-04 22:01:21 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-04 22:01:21 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-04 22:01:25 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-04 22:05:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-04 22:05:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-04 23:01:11 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 9374 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 23:01:11 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 23:01:11 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 23:01:11 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 23:01:13 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 23:01:13 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1682 ms
+2022-12-04 23:01:14 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 23:01:14 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 23:01:14 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.856 seconds (JVM running for 3.579)
+2022-12-04 23:03:01 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 9401 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 23:03:01 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 23:03:01 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 23:03:01 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 23:03:02 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 23:03:02 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1667 ms
+2022-12-04 23:03:03 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 23:03:03 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:03 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.855 seconds (JVM running for 3.494)
+2022-12-04 23:03:05 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 23:03:05 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-04 23:03:27 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 9407 (/Users/albasmagicjourney/Desktop/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/important-music-server)
+2022-12-04 23:03:27 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-04 23:03:27 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-04 23:03:27 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-04 23:03:28 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 9000 (http)
+2022-12-04 23:03:28 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1492 ms
+2022-12-04 23:03:29 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-04 23:03:29 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 9000 (http) with context path ''
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Int, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: Integer, dataTypeClass: class java.lang.Void
+2022-12-04 23:03:29 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.673 seconds (JVM running for 3.402)
+2022-12-04 23:03:32 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-04 23:03:32 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms

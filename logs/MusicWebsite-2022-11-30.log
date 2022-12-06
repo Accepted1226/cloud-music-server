@@ -1,0 +1,39 @@
+2022-11-30 19:54:46 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 2519 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-11-30 19:54:46 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-11-30 19:54:46 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-30 19:54:46 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-30 19:54:48 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-11-30 19:54:48 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2231 ms
+2022-11-30 19:54:48 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-11-30 19:54:49 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-11-30 19:54:49 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 3.446 seconds (JVM running for 4.774)
+2022-11-30 19:54:52 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-11-30 19:54:52 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-11-30 19:54:52 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /apple-touch-icon-precomposed.png
+2022-11-30 19:54:53 WARN [org.springframework.web.servlet.PageNotFound]: No mapping for GET /apple-touch-icon.png
+2022-11-30 23:52:05 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4517 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-11-30 23:52:05 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-11-30 23:52:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-30 23:52:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-30 23:52:07 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-11-30 23:52:07 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1740 ms
+2022-11-30 23:52:08 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-11-30 23:52:08 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-11-30 23:52:08 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.958 seconds (JVM running for 3.733)
+2022-11-30 23:52:14 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-11-30 23:52:14 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-11-30 23:54:02 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4584 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-11-30 23:54:02 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-11-30 23:54:02 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-11-30 23:54:02 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-11-30 23:54:03 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-11-30 23:54:03 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1504 ms
+2022-11-30 23:54:04 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-11-30 23:54:04 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-11-30 23:54:04 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.592 seconds (JVM running for 3.313)
+2022-11-30 23:56:43 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-11-30 23:56:43 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 6 ms
+2022-11-30 23:56:43 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-11-30 23:56:43 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-11-30 23:58:28 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-11-30 23:58:28 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.

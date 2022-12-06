@@ -1,0 +1,655 @@
+2022-12-01 00:03:05 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4667 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:03:05 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:03:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:03:05 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:03:06 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:03:06 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1545 ms
+2022-12-01 00:03:07 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:03:07 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:03:07 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.659 seconds (JVM running for 3.384)
+2022-12-01 00:03:21 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:03:21 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-01 00:03:21 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:03:21 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:08:29 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:08:29 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:08:34 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4703 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:08:34 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:08:34 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:08:34 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:08:35 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:08:35 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1504 ms
+2022-12-01 00:08:36 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:08:36 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:08:36 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.571 seconds (JVM running for 3.236)
+2022-12-01 00:08:38 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:08:38 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-01 00:08:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:08:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:08:38 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 00:08:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:08:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:12:12 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4732 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:12:12 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:12:12 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:12:12 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:12:13 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:12:13 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1540 ms
+2022-12-01 00:12:14 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:12:14 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:12:14 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.668 seconds (JVM running for 3.413)
+2022-12-01 00:12:32 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:12:32 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-01 00:12:32 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:12:32 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:12:32 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 00:13:22 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:13:22 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:13:26 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4764 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:13:26 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:13:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:13:26 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:13:28 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:13:28 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1580 ms
+2022-12-01 00:13:28 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:13:28 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:13:29 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.692 seconds (JVM running for 3.27)
+2022-12-01 00:13:39 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:13:39 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 6 ms
+2022-12-01 00:13:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:13:39 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:13:39 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 00:16:00 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:16:00 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:17:56 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4778 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:17:56 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:17:56 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:17:56 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:17:58 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:17:58 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1424 ms
+2022-12-01 00:17:58 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:17:58 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:17:59 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.472 seconds (JVM running for 3.149)
+2022-12-01 00:18:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:18:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 00:18:04 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:18:04 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:18:17 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:18:17 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:18:37 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4790 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:18:37 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:18:37 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:18:37 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:18:38 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:18:38 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1445 ms
+2022-12-01 00:18:38 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:18:39 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:18:39 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.518 seconds (JVM running for 3.094)
+2022-12-01 00:18:42 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:18:42 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-01 00:18:42 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:18:42 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:19:36 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:19:36 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:19:41 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4795 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:19:41 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:19:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:19:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:19:41 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4797 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:19:41 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:19:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:19:41 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:19:43 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:19:43 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:19:43 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2208 ms
+2022-12-01 00:19:43 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1868 ms
+2022-12-01 00:19:44 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:19:44 WARN [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: Unable to start LiveReload server
+2022-12-01 00:19:44 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:19:44 WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext]: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8888 is already in use
+2022-12-01 00:19:44 INFO [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener]: 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-12-01 00:19:44 ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter]: 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8888 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8888 or configure this application to listen on another port.
+
+2022-12-01 00:19:44 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 3.117 seconds (JVM running for 3.861)
+2022-12-01 00:19:48 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:19:48 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 00:19:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:19:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:19:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:19:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:23:04 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4852 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:23:04 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:23:04 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:23:04 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:23:05 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:23:05 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1619 ms
+2022-12-01 00:23:06 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:23:06 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:23:06 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.805 seconds (JVM running for 3.487)
+2022-12-01 00:23:08 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:23:08 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-01 00:23:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:23:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:23:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:23:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:23:54 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:23:54 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:23:54 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4852 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:23:54 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:23:55 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:23:55 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 517 ms
+2022-12-01 00:23:55 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:23:55 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:23:55 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.95 seconds (JVM running for 52.262)
+2022-12-01 00:23:55 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-01 00:36:22 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4985 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:36:22 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:36:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:36:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:36:24 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:36:24 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1649 ms
+2022-12-01 00:36:24 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:36:24 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:36:24 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 00:36:24 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 00:36:24 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 00:36:25 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.808 seconds (JVM running for 3.542)
+2022-12-01 00:36:43 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 00:36:43 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-01 00:36:43 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'nickname' is not present]
+2022-12-01 00:37:00 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'nickname' is not present]
+2022-12-01 00:38:25 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'nickname' is not present]
+2022-12-01 00:39:02 WARN [org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver]: Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'nickname' is not present]
+2022-12-01 00:40:15 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 00:40:15 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 00:40:15 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 00:41:53 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 00:41:53 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 00:41:53 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 00:41:53 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 00:41:53 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 4985 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 00:41:53 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 00:41:54 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 00:41:54 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 710 ms
+2022-12-01 00:41:54 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 00:41:54 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 00:41:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 00:41:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 00:41:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 00:41:54 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 1.331 seconds (JVM running for 333.049)
+2022-12-01 00:41:54 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-01 09:44:25 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6076 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 09:44:25 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 09:44:25 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 09:44:25 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 09:44:27 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 09:44:27 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1654 ms
+2022-12-01 09:44:28 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 09:44:28 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 09:44:28 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:44:28 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:44:28 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:44:28 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.844 seconds (JVM running for 3.589)
+2022-12-01 09:46:07 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6092 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 09:46:07 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 09:46:07 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 09:46:07 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 09:46:09 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 09:46:09 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1490 ms
+2022-12-01 09:46:09 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 09:46:09 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 09:46:09 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:46:09 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:46:09 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:46:09 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.567 seconds (JVM running for 3.089)
+2022-12-01 09:46:48 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 09:46:48 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 7 ms
+2022-12-01 09:46:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 09:46:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 09:46:48 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 09:47:32 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 09:47:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 09:47:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 09:47:52 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6137 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 09:47:52 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 09:47:52 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 09:47:52 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 09:47:54 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 09:47:54 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1586 ms
+2022-12-01 09:47:54 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 09:47:54 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 09:47:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:47:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:47:54 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:47:55 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.761 seconds (JVM running for 3.479)
+2022-12-01 09:47:55 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 09:47:55 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-12-01 09:47:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 09:47:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 09:47:55 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 09:47:57 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 09:48:36 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 09:48:56 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 09:49:23 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 09:49:29 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 09:49:29 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 09:58:43 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6204 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 09:58:43 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 09:58:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 09:58:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 09:58:44 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 09:58:44 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1630 ms
+2022-12-01 09:58:45 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 09:58:45 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 09:58:45 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:58:45 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:58:45 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 09:58:45 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.775 seconds (JVM running for 3.491)
+2022-12-01 09:58:54 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 09:58:54 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 09:58:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 09:58:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 09:58:54 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:00:06 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:00:06 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:12:40 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6359 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:12:40 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:12:40 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:12:40 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:12:42 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:12:42 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1468 ms
+2022-12-01 10:12:42 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:12:42 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:12:42 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:12:42 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:12:42 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:12:43 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.565 seconds (JVM running for 3.214)
+2022-12-01 10:12:44 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:12:44 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 7 ms
+2022-12-01 10:14:52 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6372 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:14:52 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:14:53 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:14:53 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:14:54 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:14:54 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1593 ms
+2022-12-01 10:14:55 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:14:55 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:14:55 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:14:55 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:14:55 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:14:55 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.754 seconds (JVM running for 3.517)
+2022-12-01 10:15:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:15:04 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-12-01 10:15:04 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:15:04 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:15:04 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:15:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:15:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:33:22 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6867 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:33:22 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:33:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:33:22 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:33:23 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:33:23 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1723 ms
+2022-12-01 10:33:24 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:33:24 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:33:24 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:33:24 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:33:24 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:33:24 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.919 seconds (JVM running for 3.703)
+2022-12-01 10:33:32 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:33:32 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:33:32 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:33:33 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:33:33 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:33:40 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:33:40 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:37:20 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6885 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:37:20 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:37:20 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:37:20 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:37:21 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:37:21 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1507 ms
+2022-12-01 10:37:22 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:37:22 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:37:22 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:37:22 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:37:22 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:37:22 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.551 seconds (JVM running for 3.101)
+2022-12-01 10:37:31 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:37:31 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:37:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:37:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:37:31 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:37:52 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:37:52 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:37:55 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6889 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:37:55 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:37:55 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:37:55 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:37:57 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:37:57 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1611 ms
+2022-12-01 10:37:57 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:37:57 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:37:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:37:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:37:58 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:37:58 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.698 seconds (JVM running for 3.256)
+2022-12-01 10:38:00 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:38:00 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-12-01 10:38:00 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:38:00 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:38:00 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:38:24 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:38:24 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:38:27 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6896 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:38:27 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:38:27 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:38:27 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:38:28 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:38:28 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1561 ms
+2022-12-01 10:38:29 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:38:29 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:38:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:38:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:38:29 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:38:29 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.648 seconds (JVM running for 3.337)
+2022-12-01 10:38:30 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:38:30 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:38:30 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:38:30 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:38:30 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:38:58 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:38:58 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:38:58 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:38:58 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:38:58 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6896 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:38:58 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:38:58 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:38:58 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 465 ms
+2022-12-01 10:38:58 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:38:59 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:38:59 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:38:59 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:38:59 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:38:59 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.816 seconds (JVM running for 32.69)
+2022-12-01 10:38:59 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-01 10:39:02 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:39:02 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:39:02 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6896 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:39:02 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:39:02 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:39:02 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 394 ms
+2022-12-01 10:39:03 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:39:03 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:39:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:39:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:39:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:39:03 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 0.747 seconds (JVM running for 36.815)
+2022-12-01 10:39:03 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-12-01 10:39:43 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6902 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:39:43 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:39:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:39:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:39:44 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:39:44 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1545 ms
+2022-12-01 10:39:45 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:39:45 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:39:45 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:39:45 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:39:45 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:39:45 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.661 seconds (JVM running for 3.247)
+2022-12-01 10:39:47 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:39:47 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:39:47 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:39:47 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:39:48 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:40:44 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:40:44 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:40:47 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6909 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:40:47 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:40:47 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:40:47 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:40:49 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:40:49 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1440 ms
+2022-12-01 10:40:49 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:40:49 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:40:50 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:40:50 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:40:50 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:40:50 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.46 seconds (JVM running for 3.131)
+2022-12-01 10:40:52 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:40:52 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:40:52 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:40:52 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:40:52 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:41:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:41:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:41:34 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6919 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:41:34 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:41:34 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:41:34 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:41:35 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:41:36 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1450 ms
+2022-12-01 10:41:36 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:41:36 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:41:36 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:41:36 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:41:36 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:41:36 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.496 seconds (JVM running for 3.048)
+2022-12-01 10:41:38 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:41:38 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:41:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:41:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:41:38 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:41:57 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:41:57 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:42:00 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6926 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:42:00 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:42:00 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:42:00 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:42:02 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:42:02 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1511 ms
+2022-12-01 10:42:02 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:42:02 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:42:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:42:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:42:03 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:42:03 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.535 seconds (JVM running for 3.078)
+2022-12-01 10:42:13 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:42:13 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:42:13 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:42:13 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:42:13 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:42:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:42:55 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:42:58 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6933 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:42:58 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:42:58 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:42:58 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:43:00 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:43:00 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1405 ms
+2022-12-01 10:43:00 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:43:00 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:43:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:43:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:43:00 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:43:00 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.43 seconds (JVM running for 3.182)
+2022-12-01 10:43:03 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:43:03 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-12-01 10:43:03 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:43:03 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:43:03 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:44:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:44:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:48:44 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6954 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:48:44 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:48:44 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:48:44 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:48:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:48:46 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1472 ms
+2022-12-01 10:48:46 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:48:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:48:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:48:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:48:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:48:47 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.517 seconds (JVM running for 3.216)
+2022-12-01 10:48:50 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:48:50 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:48:50 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:48:50 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:48:50 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:49:11 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:49:11 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:49:45 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6967 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:49:45 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:49:45 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:49:45 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:49:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:49:47 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1484 ms
+2022-12-01 10:49:47 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:49:47 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:49:47 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:49:47 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:49:47 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:49:47 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.602 seconds (JVM running for 3.183)
+2022-12-01 10:49:54 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:49:54 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-12-01 10:49:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:49:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:49:54 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:50:02 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:50:02 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 10:52:46 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 6980 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 10:52:46 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 10:52:46 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 10:52:46 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 10:52:48 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 10:52:48 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1551 ms
+2022-12-01 10:52:48 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 10:52:48 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 10:52:49 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:52:49 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:52:49 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 10:52:49 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.73 seconds (JVM running for 3.44)
+2022-12-01 10:52:54 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 10:52:54 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 10:53:02 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 10:53:02 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 10:53:02 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-12-01 10:53:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 10:53:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 11:10:42 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7048 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 11:10:42 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 11:10:42 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 11:10:42 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 11:10:43 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 11:10:43 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1592 ms
+2022-12-01 11:10:44 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 11:10:44 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 11:10:44 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:10:44 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:10:44 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:10:44 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:10:44 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:10:44 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.761 seconds (JVM running for 3.468)
+2022-12-01 11:10:57 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 11:10:57 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 6 ms
+2022-12-01 11:10:57 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 11:10:57 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 11:11:47 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 11:11:47 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 11:12:44 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7058 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 11:12:44 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 11:12:44 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 11:12:44 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 11:12:45 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 11:12:45 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1522 ms
+2022-12-01 11:12:46 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 11:12:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 11:12:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:12:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:12:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:12:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:12:46 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:12:46 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.648 seconds (JVM running for 3.339)
+2022-12-01 11:12:48 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 11:12:48 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-12-01 11:12:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 11:12:48 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 11:13:21 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 11:13:21 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 11:13:25 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7072 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 11:13:25 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 11:13:25 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 11:13:25 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 11:13:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 11:13:27 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1466 ms
+2022-12-01 11:13:27 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 11:13:27 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 11:13:27 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:13:27 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:13:27 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:13:27 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:13:27 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:13:27 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.608 seconds (JVM running for 3.106)
+2022-12-01 11:13:31 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 11:13:31 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 6 ms
+2022-12-01 11:13:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 11:13:31 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 11:14:07 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 11:14:07 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 11:14:36 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7077 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 11:14:36 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 11:14:36 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 11:14:36 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 11:14:38 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 11:14:38 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1397 ms
+2022-12-01 11:14:38 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 11:14:38 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 11:14:38 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:14:38 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:14:38 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:14:38 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:14:38 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:14:39 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.399 seconds (JVM running for 2.882)
+2022-12-01 11:14:41 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 11:14:41 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-12-01 11:14:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 11:14:41 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 11:14:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 11:14:54 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-12-01 11:15:24 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on yezideMBP.local with PID 7089 (/Users/albasmagicjourney/Desktop/springboot/important-music-server/target/classes started by albasmagicjourney in /Users/albasmagicjourney/Desktop/springboot/important-music-server)
+2022-12-01 11:15:24 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-12-01 11:15:24 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-12-01 11:15:24 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-12-01 11:15:25 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-12-01 11:15:25 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 1507 ms
+2022-12-01 11:15:26 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-12-01 11:15:26 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-12-01 11:15:26 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:15:26 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:15:26 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:15:26 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:15:26 WARN [springfox.documentation.swagger.readers.operation.OperationImplicitParameterReader]: Unable to interpret the implicit parameter configuration with dataType: String, dataTypeClass: class java.lang.Void
+2022-12-01 11:15:26 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.566 seconds (JVM running for 3.231)
+2022-12-01 11:15:29 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-12-01 11:15:29 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 3 ms
+2022-12-01 11:15:29 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-12-01 11:15:29 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-12-01 11:16:15 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-12-01 11:16:15 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.

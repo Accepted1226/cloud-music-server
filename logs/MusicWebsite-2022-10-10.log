@@ -1,0 +1,126 @@
+2022-10-10 00:18:46 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-10-10 00:22:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-10-10 00:22:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-10-10 00:22:39 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 00:22:39 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 00:22:39 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 58688 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 00:22:39 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 00:22:40 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 00:22:41 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 2043 ms
+2022-10-10 00:22:41 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 00:22:41 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-10-10 00:22:41 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 2.545 seconds (JVM running for 8269.725)
+2022-10-10 00:22:41 INFO [org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener]: Condition evaluation unchanged
+2022-10-10 00:22:57 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 68000 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 00:22:57 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 00:22:57 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 00:22:57 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 00:23:00 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 00:23:00 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3243 ms
+2022-10-10 00:23:01 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 00:23:01 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-10-10 00:23:01 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 4.545 seconds (JVM running for 6.748)
+2022-10-10 00:23:19 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-10-10 00:23:19 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 6 ms
+2022-10-10 00:23:19 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-10-10 00:23:20 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-10-10 01:30:29 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-10-10 02:14:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-10-10 02:14:08 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-10-10 02:14:15 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 71440 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 02:14:15 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 02:14:15 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 02:14:15 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 02:14:18 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 02:14:19 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3943 ms
+2022-10-10 02:14:19 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 02:14:20 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-10-10 02:14:20 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 5.368 seconds (JVM running for 7.585)
+2022-10-10 16:50:43 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 70012 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 16:50:43 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 16:50:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 16:50:43 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 16:50:46 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 16:50:46 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3297 ms
+2022-10-10 16:50:46 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 16:50:47 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-10-10 16:50:47 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 4.659 seconds (JVM running for 7.284)
+2022-10-10 16:51:19 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-10-10 16:51:19 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 9 ms
+2022-10-10 16:51:19 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-10-10 16:51:19 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-10-10 17:07:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-10-10 17:07:45 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-10-10 17:34:39 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 47596 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 17:34:39 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 17:34:39 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 17:34:39 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 17:34:42 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 17:34:42 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3202 ms
+2022-10-10 17:34:42 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 17:34:42 WARN [org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext]: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8888 is already in use
+2022-10-10 17:34:42 INFO [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener]: 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-10-10 17:34:42 ERROR [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter]: 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8888 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8888 or configure this application to listen on another port.
+
+2022-10-10 17:38:03 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 57172 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 17:38:03 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 17:38:03 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 17:38:03 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 17:38:06 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 17:38:06 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3074 ms
+2022-10-10 17:38:07 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 17:38:07 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-10-10 17:38:07 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 4.419 seconds (JVM running for 6.583)
+2022-10-10 17:38:12 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-10-10 17:38:12 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 5 ms
+2022-10-10 17:38:12 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-10-10 17:38:12 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-10-10 17:42:04 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-10-10 17:42:11 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-10-10 17:42:18 INFO [com.xxx.handler.MyMetaObjectHandler]: start insert fill...
+2022-10-10 17:50:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-10-10 17:50:38 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-10-10 17:50:46 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 68220 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 17:50:46 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 17:50:46 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 17:50:46 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 17:50:49 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 17:50:49 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3046 ms
+2022-10-10 17:50:49 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 17:50:50 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-10-10 17:50:50 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 4.223 seconds (JVM running for 6.293)
+2022-10-10 17:50:58 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-10-10 17:50:58 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 11 ms
+2022-10-10 17:50:58 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-10-10 17:50:58 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-10-10 18:55:10 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-10-10 18:55:10 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
+2022-10-10 21:27:29 INFO [com.xxx.MusicServerApplication]: Starting MusicServerApplication on AffectionateScholar with PID 75096 (D:\desktop\Music\music-server\target\classes started by 86176 in D:\desktop\Music\music-server)
+2022-10-10 21:27:29 INFO [com.xxx.MusicServerApplication]: The following profiles are active: dev
+2022-10-10 21:27:29 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-10-10 21:27:29 INFO [org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor]: For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-10-10 21:27:32 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat initialized with port(s): 8888 (http)
+2022-10-10 21:27:32 INFO [org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext]: Root WebApplicationContext: initialization completed in 3368 ms
+2022-10-10 21:27:33 INFO [org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer]: LiveReload server is running on port 35729
+2022-10-10 21:27:33 INFO [org.springframework.boot.web.embedded.tomcat.TomcatWebServer]: Tomcat started on port(s): 8888 (http) with context path ''
+2022-10-10 21:27:33 INFO [com.xxx.MusicServerApplication]: Started MusicServerApplication in 4.615 seconds (JVM running for 7.591)
+2022-10-10 21:28:18 INFO [org.springframework.web.servlet.DispatcherServlet]: Initializing Servlet 'dispatcherServlet'
+2022-10-10 21:28:18 INFO [org.springframework.web.servlet.DispatcherServlet]: Completed initialization in 4 ms
+2022-10-10 21:28:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Starting...
+2022-10-10 21:28:18 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Start completed.
+2022-10-10 23:43:33 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown initiated...
+2022-10-10 23:43:33 INFO [com.zaxxer.hikari.HikariDataSource]: HikariPool-1 - Shutdown completed.
