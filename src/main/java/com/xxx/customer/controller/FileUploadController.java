@@ -38,7 +38,7 @@ public class FileUploadController {
     public Object fileUpload(@RequestParam("file") MultipartFile[] files) throws IOException {
         //,@RequestParam(value = "flavor",required = false)String flavor建议不传
         String fileRootPath=System.getProperty("user.dir")+"/feed/";
-        // 多文件上传
+        //多文件上传
         int length=files.length;
         System.out.println(length);
         List<String> list=new ArrayList<String>();

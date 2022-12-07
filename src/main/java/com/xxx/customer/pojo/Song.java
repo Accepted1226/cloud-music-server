@@ -60,13 +60,13 @@ public class Song extends Model<Song> {
     private String introduction;
 
     @ApiModelProperty("发行时间")
-    @TableField(value = "createAt", fill = FieldFill.INSERT)
+    @TableField(value = "createdAt", fill = FieldFill.INSERT)
     @DateTimeFormat(pattern = "yyyy-MM-dd HH:mm:ss")
     @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss", timezone = "GMT+8")
     private Date createdAt;
 
     @ApiModelProperty("修改时间")
-    @TableField("updateAt")
+    @TableField("updatedAt")
     @DateTimeFormat(pattern = "yyyy-MM-dd HH:mm:ss")
     @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss", timezone = "GMT+8")
     private Date updatedAt;
