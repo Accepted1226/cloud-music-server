@@ -8,6 +8,14 @@ import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Select;
 import java.util.List;
 
+/**
+ * <p>
+ *  Mapper 接口
+ * </p>
+ *
+ * @author Alba
+ * @since 2022-11-30
+ */
 @Mapper
 public interface FeedMapper extends BaseMapper<Feed> {
 

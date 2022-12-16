@@ -37,8 +37,8 @@ public class SwaggerConfig {
     }
 
     private ApiInfo apiInfo() {
-        Contact DEFAULT_CONTACT = new Contact("公瑾", "http://localhost:8081/", "1378291419@qq.com");
-        return new ApiInfo("公瑾的SwaggerAPI文档",  // 标题
+        Contact DEFAULT_CONTACT = new Contact("alba", "http://localhost:8081/", "863488096@qq.com");
+        return new ApiInfo("alba的SwaggerAPI文档",  // 标题
                 "世间万物,可期不渴望!",    // 描述
                 "1.0", //版本
                 "http://www.baidu.com/", // 组织链接

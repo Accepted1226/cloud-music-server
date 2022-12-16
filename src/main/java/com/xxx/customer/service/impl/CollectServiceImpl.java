@@ -16,8 +16,8 @@ import java.util.List;
  * 服务实现类
  * </p>
  *
- * @author 公瑾
- * @since 2022-09-22
+ * @author Alba
+ * @since 2022-11-30
  */
 @Service
 public class CollectServiceImpl extends ServiceImpl<CollectMapper, Collect> implements CollectService {

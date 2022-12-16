@@ -11,8 +11,8 @@ import java.util.List;
  *  服务类
  * </p>
  *
- * @author 公瑾
- * @since 2022-09-22
+ * @author Alba
+ * @since 2022-11-30
  */
 @Transactional
 public interface SongService extends IService<Song> {

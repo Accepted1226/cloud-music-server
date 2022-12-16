@@ -36,9 +36,8 @@ import java.util.List;
  * <p>
  * 前端控制器
  * </p>
- *
- * @author 公瑾
- * @since 2022-09-22
+ * @author Alba
+ * @since 2022-11-30
  */
 @RestController
 @Api("歌曲控制层")

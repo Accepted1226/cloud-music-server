@@ -9,8 +9,8 @@ import org.apache.ibatis.annotations.Mapper;
  *  Mapper 接口
  * </p>
  *
- * @author 公瑾
- * @since 2022-09-22
+ * @author Alba
+ * @since 2022-11-30
  */
 @Mapper
 public interface SongListMapper extends BaseMapper<SongList> {

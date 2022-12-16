@@ -9,9 +9,8 @@ import java.util.List;
  * <p>
  * 服务类
  * </p>
- *
- * @author 公瑾
- * @since 2022-09-22
+ * @author Alba
+ * @since 2022-11-30
  */
 public interface CommentService extends IService<Comment> {
 
